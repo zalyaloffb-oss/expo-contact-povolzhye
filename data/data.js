@@ -165,6 +165,21 @@ window.EXPO_DATA = {
       "status": "Каталог организатора",
       "source": "https://aquaflame-expo.ru/ru/about/news/2026/november/19/uchastniki-aquaflame-2027-opublikovan-spisok-kompanij-eksponentov/",
       "note": "Опубликованный организатором список компаний и брендов; страна и юридическое лицо требуют проверки."
+    },
+    {
+      "id": "skrep27",
+      "name": "Скрепка Экспо",
+      "city": "Москва",
+      "region": "Москва",
+      "venue": "Тимирязев Центр",
+      "theme": "Канцтовары и творчество",
+      "date": "16–18 февраля 2027",
+      "start": "2027-02-16",
+      "end": "2027-02-18",
+      "year": 2027,
+      "status": "Объявлены участники",
+      "source": "https://skrepkaexpo.ru/anons-2-2027/",
+      "note": "Организатор назвал первых участников; список неполный."
     }
   ],
   "companies": [
@@ -8584,6 +8599,36 @@ window.EXPO_DATA = {
       "event": "aqua27",
       "evidence": "Список организатора; страна не проверена",
       "source": "https://aquaflame-expo.ru/ru/about/news/2026/november/19/uchastniki-aquaflame-2027-opublikovan-spisok-kompanij-eksponentov/"
+    },
+    {
+      "id": "uchitel",
+      "name": "Издательство «Учитель»",
+      "city": "Волгоградская область",
+      "website": "https://uchitel-izd.ru/",
+      "industry": "Канцтовары и творчество",
+      "event": "skrep27",
+      "evidence": "Подтверждено организатором; Россия",
+      "source": "https://skrepkaexpo.ru/anons-2-2027/"
+    },
+    {
+      "id": "hobby",
+      "name": "Магия Хобби",
+      "city": "Москва",
+      "website": "https://magiyahobby.ru/",
+      "industry": "Канцтовары и творчество",
+      "event": "skrep27",
+      "evidence": "Подтверждено организатором; Россия",
+      "source": "https://skrepkaexpo.ru/anons-2-2027/"
+    },
+    {
+      "id": "gran",
+      "name": "Грань, ООО",
+      "city": "Москва",
+      "website": "https://www.gran.ru/",
+      "industry": "Канцтовары и творчество",
+      "event": "skrep27",
+      "evidence": "Подтверждено организатором; Россия",
+      "source": "https://skrepkaexpo.ru/anons-2-2027/"
     }
   ],
   "coverage": [
